@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Github-Information/static/css/main.d5162ea1.css",
+    "main.js": "/Github-Information/static/js/main.86f292d9.js",
+    "static/media/wp3082259-github-wallpapers.png": "/Github-Information/static/media/wp3082259-github-wallpapers.e62ad9d85112e399bb36.png",
+    "index.html": "/Github-Information/index.html",
+    "main.d5162ea1.css.map": "/Github-Information/static/css/main.d5162ea1.css.map",
+    "main.86f292d9.js.map": "/Github-Information/static/js/main.86f292d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5162ea1.css",
+    "static/js/main.86f292d9.js"
+  ]
+}
